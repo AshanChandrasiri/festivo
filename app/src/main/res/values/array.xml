@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <array name="drawable_array">
+
+     \
+<!--        <item>@drawable/selector_video</item>-->
+        <item>@drawable/back</item>
+        <item>@drawable/selector_photo</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_upload</item>
+        <item>@drawable/selector_video</item>
+
+    </array>
+
+
+</resources>
